@@ -1,5 +1,5 @@
 // 1. Referências dos elementos HTML
-const form = document.getElementById('cep-form');
+const formulario = document.getElementById('cep-form');
 const campoCep = document.getElementById('cep');
 const mensagem = document.getElementById('mensagem');
 const resultado = document.getElementById('resultado');
